@@ -7,7 +7,8 @@ What I have uploaded so far:
   
   A visual simulation of the solar system (or any other planetary arrangement) that is mathematically correct given any input        masses and positions of the desired celestial bodies. Also includes various staring scenarios, which i did not write.
   
-Note that this is still being updated! Others that I have yet to upload:
+  
+Projects I still need to upload:
 
   A Plants vs. Zombies spinoff
   
